@@ -2,7 +2,7 @@ Program programa;
 var
   num1, num2 : integer;
 begin
-  write('Ingrese el primer nùmero: ');
+  write('ingrese el primer nùmero: ');
   readln(num1);
   write('Ingrese el segundo nùmero: ');
   readln(num2);
